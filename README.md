@@ -1,8 +1,5 @@
-### Hi there 👋
-
-Currently: Working as a .NET Developer
-
-https://www.codewars.com/users/georgezalokostas/badges/large?theme=light
+### Codewars  
+<img src="https://www.codewars.com/users/georgezalokostas/badges/large?theme=light">
 <!--
 **georgezalokostas/georgezalokostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
