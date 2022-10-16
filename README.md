@@ -1,5 +1,5 @@
 ### Codewars  : https://www.codewars.com/users/georgezalokostas
-<img src="https://www.codewars.com/users/georgezalokostas/badges/large?theme=light">
+<img src="https://www.codewars.com/users/georgezalokostas/badges/small?theme=light">
 <!--
 **georgezalokostas/georgezalokostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
