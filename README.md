@@ -3,4 +3,4 @@
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgezalokostas&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=georgezalokostas)](https://git.io/streak-stats)
