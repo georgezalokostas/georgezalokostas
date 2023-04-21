@@ -11,4 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,react,ts,js,firebase)](https://skillicons.dev)
 
-
+**Connect with me**
+<br/><br/>
+    <a href="https://www.linkedin.com/in/georgezalokostas/" target="_blank"><img alt="LinkedIn" width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="mailto:gzalos6@gmail.com" target="_blank"><img alt="Gmail" width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
