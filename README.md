@@ -4,11 +4,11 @@
 
 **What I mainly use**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,rabbitmq,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,redis,postman,vscode)](https://skillicons.dev)
 
 **Have also worked with**
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,react,ts,js,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,react,ts,js,firebase,rabbitmq)](https://skillicons.dev)
 
 **Connect with me**
 <br/><br/>
