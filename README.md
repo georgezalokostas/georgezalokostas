@@ -8,7 +8,7 @@
 
 **Have also worked with**
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,react,ts,js,firebase,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,react,ts,js)](https://skillicons.dev)
 
 **Connect with me**
 <br/><br/>
