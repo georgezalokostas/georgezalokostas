@@ -6,6 +6,7 @@
 ```javascript
 const george = {
     code: ["C#", ".NET Core", ".NET Framework"],
+    cloud: ["Microsoft Azure", "AWS"],
     technologies: {
         backEnd: {
             csharp: [".NET Web API", ".NET Console Apps"],
@@ -14,13 +15,17 @@ const george = {
         frontEnd: {
             web: ["React", "Javascript", "Typescript"]
         },
-        devOps: ["AWS", "Docker🐳"],
+        containers: ["Docker🐳", "Kubernetes"],
         databases: ["Mongo", "MySql", "SQL Server", "Redis"],
+        caching: ["Redis"],
         messageBrokers: ["RabbitMQ"],
         loggingMonitoring: ["Splunk"],
-        graphMonitoring: ["Grafana"]
-    },
+        graphMonitoring: ["Grafana"],
+        testing: ["xUnit", "nUnit", "Moq", "Specflow"]
+    },   
     tools: ["Rider", "VSCode", "Visual Studio", "Git"],
+    architecture: ["Clean Architecture", "Domain Driven Design"],
+    CI/CD: ["Github Actions", "TeamCity", "Octopus"],
     additionalLanguages: ["Python", "TensorFlow"],
     designPrinciples: ["Design Patterns", "SOLID Principles"]
 };
