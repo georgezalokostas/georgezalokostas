@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ```javascript
 const george = {
-    code: ["C#", ".NET", ".NET Core", ".NET Framework"],
+    code: ["C#", ".NET Core", ".NET Framework"],
     technologies: {
         backEnd: {
-            csharp: [".NET Web API", "Dapper", "LINQ"]
+            csharp: [".NET Web API", ".NET Console Apps", "Dapper", "LINQ"]
         },
         frontEnd: {
             web: ["React", "Typescript"]
