@@ -1,7 +1,7 @@
 ## Hi there, I'm George! Welcome to my GitHub profile.👋 
  • I'm passionate about software development and enjoy working with various technologies to build innovative solutions.
  
- • I'm currently working at one of the best gaming companies in the world, Betsson Group!
+ • I'm currently working at Betsson Group, one of the best gaming companies in the world!
 
 ```javascript
 const george = {
