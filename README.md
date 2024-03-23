@@ -17,7 +17,7 @@ const george = {
         },
         containers: ["Docker🐳", "Kubernetes"],
         databases: ["Mongo", "MySql", "SQL Server", "Redis"],
-        logging: ["NLog", "Serilog"]
+        logging: ["NLog", "Serilog"],
         caching: ["Redis"],
         messageBrokers: ["RabbitMQ"],
         loggingMonitoring: ["Splunk"],
