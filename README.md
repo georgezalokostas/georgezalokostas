@@ -24,7 +24,7 @@ const george = {
             libraries: ["Dapper", "LINQ", "Polly", "RestSharp", "Serilog", "Autofac", "Hangfire", "Automapper"]
         },
         frontEnd: {
-            web: ["React", "Typescript"]
+            web: ["React", "Javascript", "Typescript"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["Mongo", "MySql", "SQL Server", "Redis"],
