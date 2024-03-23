@@ -20,7 +20,8 @@ const george = {
     code: ["C#", ".NET Core", ".NET Framework"],
     technologies: {
         backEnd: {
-            csharp: [".NET Web API", ".NET Console Apps", "Dapper", "LINQ"]
+            csharp: [".NET Web API", ".NET Console Apps"],
+            libraries: ["Dapper", "LINQ", "Polly", "RestSharp", "Serilog", "Autofac", "Hangfire", "Automapper"]
         },
         frontEnd: {
             web: ["React", "Typescript"]
