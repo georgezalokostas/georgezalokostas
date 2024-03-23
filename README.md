@@ -71,6 +71,18 @@ const george = {
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/>
+  </a>
+
+   <a href="https://www.gitkraken.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+   <a href="https://grafana.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -111,12 +123,20 @@ const george = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
 
+   <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="redis" width="40" height="40"/>
+  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
 
 </p>
