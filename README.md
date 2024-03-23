@@ -103,6 +103,10 @@ const george = {
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 
+  <a href="https://github.com/App-vNext/Polly" target="_blank">
+    <img src="https://www.thepollyproject.org/content/images/2016/10/Polly-Logo@2x.png" alt="postman" width="40" height="40"/>
+  </a>
+
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
