@@ -10,13 +10,14 @@ const george = {
     technologies: {
         backEnd: {
             csharp: [".NET Web API", ".NET Console Apps"],
-            libraries: ["Dapper", "LINQ", "Polly", "RestSharp", "Serilog", "Autofac", "Hangfire", "Automapper"]
+            libraries: ["Dapper", "LINQ", "Polly", "RestSharp", "Autofac", "Hangfire", "Automapper"]
         },
         frontEnd: {
             web: ["React", "Javascript", "Typescript"]
         },
         containers: ["Docker🐳", "Kubernetes"],
         databases: ["Mongo", "MySql", "SQL Server", "Redis"],
+        logging: ["NLog", "Serilog"]
         caching: ["Redis"],
         messageBrokers: ["RabbitMQ"],
         loggingMonitoring: ["Splunk"],
