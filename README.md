@@ -31,7 +31,7 @@ const george = {
         graphMonitoring: ["Grafana"]
     },
     tools: ["Git", "VSCode", "Rider"],
-    communicationProtocols: ["RabbitMQ"],
+    messageBrokers: ["RabbitMQ"],
     additionalLanguages: ["Python", "TensorFlow"],
     designPrinciples: ["Design Patterns", "SOLID Principles"]
 };
