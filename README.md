@@ -28,11 +28,11 @@ const george = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["Mongo", "MySql", "SQL Server", "Redis"],
+        messageBrokers: ["RabbitMQ"],
         loggingMonitoring: ["Splunk"],
         graphMonitoring: ["Grafana"]
     },
-    tools: ["Git", "VSCode", "Rider"],
-    messageBrokers: ["RabbitMQ"],
+    tools: ["Rider", "VSCode", "Visual Studio", "Git"],
     additionalLanguages: ["Python", "TensorFlow"],
     designPrinciples: ["Design Patterns", "SOLID Principles"]
 };
