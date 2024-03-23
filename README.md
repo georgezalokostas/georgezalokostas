@@ -39,10 +39,12 @@ const george = {
 
 ##  My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> 
 
-![georgezalokostas's github stats](https://github-readme-stats-dosx001.vercel.app/api/?username=georgezalokostas&count_private=true&include_all_commits=true&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=georgezalokostas&langs_count=10&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgezalokostas&theme=default)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-dosx001.vercel.app/api/?username=georgezalokostas&count_private=true&include_all_commits=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgezalokostas&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
