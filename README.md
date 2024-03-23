@@ -135,8 +135,16 @@ const george = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
+   <a href="https://www.jetbrains.com/teamcity/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" alt="typescript" width="40" height="40"/>
+  </a>
+
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+
+   <a href="https://octopus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/1287123?s=280&v=4" alt="tensorflow" width="40" height="40"/> 
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
