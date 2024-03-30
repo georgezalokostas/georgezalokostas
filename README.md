@@ -44,7 +44,7 @@ const george = {
 
 ## Badges & Certifications
 
-[![Github Foundations Certification](https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/8f3afd71-0986-4779-b2b6-11b824f85d70 "Github Foundations Certification")
+[![Github Foundations Certification](https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/e6384232-1aa9-4f75-a634-a79583faf67d "Github Foundations Certification")
 
 </p>
 
