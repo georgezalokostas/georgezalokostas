@@ -16,7 +16,7 @@ const george = {
             web: ["React", "Javascript", "Typescript"]
         },
         containers: ["Docker🐳", "Kubernetes"],
-        databases: ["MongoDB", "MySql", "SQL Server", "Redis"],
+        databases: ["MongoDB", "MySql", "SQL Server", "PostgreSQL"],
         logging: ["NLog", "Serilog"],
         caching: ["Redis"],
         messageBrokers: ["RabbitMQ"],
