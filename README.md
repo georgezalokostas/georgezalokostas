@@ -32,12 +32,6 @@ const george = {
 };
 ```
 
-## Badges & Certifications
-
-```
-[![Github Foundations Certification](https://images.credly.com/size/130x130/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/e6384232-1aa9-4f75-a634-a79583faf67d "Github Foundations Certification")
-```
-
 </p>
 
 
