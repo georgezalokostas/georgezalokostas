@@ -1,24 +1,16 @@
-## 👋 Hi, I'm George!
+### About Me
 
-Welcome to my GitHub profile! I'm a passionate software developer with a deep love for technology and innovation. I enjoy working with a variety of tools and frameworks to create solutions that make a difference.
+💼&nbsp;&nbsp;&nbsp;Backend Developer at <a href="https://www.betssongroup.com/">Betsson Group</a>
 
-## 🌟 About Me
-- 🎮 **Currently**: I'm working at [Betsson Group](https://www.betssongroup.com/), one of the best gaming companies in the world, where I contribute to building top-notch gaming solutions.
+🌱&nbsp;&nbsp;&nbsp;I’m currently using and mastering **.NET**
 
-  
-- 💻 **Focus Areas**: Specializing in .NET for backend development.
+🌐&nbsp;&nbsp;&nbsp;Find me on <a href="https://www.linkedin.com/in/georgezalokostas/">LinkedIn</a>
 
-
-<!---
-### Certifications & Badges
+### Certifications
 
 <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="https://www.credly.com/earner/earned/badge/e6384232-1aa9-4f75-a634-a79583faf67d" width="150"/>
-
 </p>
--->
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,cs,docker,dotnet,git,github,kubernetes,mongodb,postgres,postman,rabbitmq,redis,rider)](https://skillicons.dev)
 
 
