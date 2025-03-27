@@ -10,8 +10,6 @@
 - Redis, RabbitMQ
 - Moq, xUnit, NUnit, SpecFlow
 - Clean Architecture, DDD
-- Git, GitHub, CI/CD
-- Splunk, Grafana
 
 ### Certifications
 
