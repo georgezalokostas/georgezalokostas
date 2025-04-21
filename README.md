@@ -4,7 +4,7 @@
 
 ### Working With
 
-- C# (.NET Core / .NET Framework)
+- C# / .NET Core
 - AWS, Docker, Kubernetes
 - SQL Server, PostgreSQL, MySQL
 - Redis, RabbitMQ
