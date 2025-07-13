@@ -6,7 +6,7 @@
 
 - C# / .NET Core
 - AWS, Docker, Kubernetes
-- SQL Server, PostgreSQL, MySQL
+- SQL Server
 - Redis, RabbitMQ
 - Moq, xUnit, NUnit, SpecFlow
 - Clean Architecture, DDD
