@@ -1,15 +1,5 @@
-### About Me
 
 💼&nbsp;&nbsp;&nbsp;Backend Developer at <a href="https://www.betssongroup.com/">Betsson Group</a>, working with and mastering **.NET**
-
-### Working With
-
-- C# / .NET Core
-- AWS
-- SQL Server
-- Redis, RabbitMQ
-- Moq, xUnit, NUnit, SpecFlow
-- Clean Architecture, DDD
 
 <!---
 ### Certifications
