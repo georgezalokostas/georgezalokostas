@@ -5,7 +5,7 @@
 ### Working With
 
 - C# / .NET Core
-- AWS, Docker, Kubernetes
+- AWS
 - SQL Server
 - Redis, RabbitMQ
 - Moq, xUnit, NUnit, SpecFlow
